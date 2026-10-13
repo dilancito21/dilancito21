@@ -20,7 +20,7 @@
 
 ###
 
-<p data-importer="text" align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p data-importer="text" align="left">I'm dilancito21<br><br>- 🔭 I’m working as Academic projects, web application development, and much more<br>- 📚 I'm currently learning New programming languages, frameworks, and databases<br>- ⚡ In my free time I I explore new technologies, I program</p>
 
 ###
 
